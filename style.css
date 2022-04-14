@@ -1,0 +1,42 @@
+body{
+    font-family: 'Updock', cursive;
+   background-color: rgb(25, 192, 136);
+}
+.header_div p 
+{
+    font-family: Arial, Helvetica, sans-serif ;
+    color:rgb(0, 33, 68);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.main_div button{
+     font-family: 'Mystery Quest', cursive;
+    margin-top:30px ;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:grey;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(188, 183, 183);
+}
+p{
+    background-color:rgb(181, 234, 129);
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: 600;
+}
+h2{
+    font-weight: 600;
+    color: blue;
+    font-size:40px;
+    
+}
